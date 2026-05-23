@@ -1,3 +1,5 @@
-Slides for my talk at the Cosmos Club
+Slides for the 2026 IES Symposium at U. Michigan
 
-April 22, 2016, Washington, DC
+Session: Behavioral Aspects of the Energy Transition
+
+May 27, 2016, Ann Arbor, MI
