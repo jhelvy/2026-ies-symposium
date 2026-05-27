@@ -128,7 +128,7 @@ class: center
 <img src="images/map_usa_new.png" width=80%>
 </center>
 
-.font90[.left[Data: **`r round(total_listings)`M vehicle listings** from 60k dealerships (2016 - 2025), marketcheck.com]]
+.font90[.left[Data: **128 M vehicle listings** from 60k dealerships (2016 - 2025), marketcheck.com]]
 
 ---
 
@@ -141,7 +141,7 @@ class: center
 <img src="images/map_usa.png" width=100%>
 </center>
 
-.font90[.left[Data: **`r round(total_listings)`M vehicle listings** from 60k dealerships (2016 - 2025), marketcheck.com]]
+.font90[.left[Data: **128 M vehicle listings** from 60k dealerships (2016 - 2025), marketcheck.com]]
 
 ---
 
@@ -195,3 +195,17 @@ Combine ML algorithm of predicted household vehicle budget (using Census data) w
 </center>
 
 ]
+
+---
+
+class: center
+
+### China offers more affordable BEVs across all range categories
+
+<center>
+<img src="images/range-price-us-china-class-2024-labels-edit.png" width=100%>
+</center>
+
+Data scraped from autocango.com (China) and carsheet.io (USA)
+
+Interactive version at https://jhelvy.github.io/science-2025/
